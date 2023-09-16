@@ -1,0 +1,4 @@
+- Hi, I’m Sam Moreno (@okdokeko)
+- I’m interested in exploring all kinds of Software (frontend, backend, embedded, etc)
+- I’m currently learning Java, Verilog, and LaTeX. 
+- How to reach me: LinkedIn - https://www.linkedin.com/in/samuel-moreno-57304b28a
